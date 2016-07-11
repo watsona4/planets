@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jul 11 09:06:44 2016
+
+@author: kf
+"""
+
+Pluto is a small planet
+it is almost round
